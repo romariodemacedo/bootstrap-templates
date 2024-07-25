@@ -1,4 +1,4 @@
 node_modules/
-bower_components/
-versioned
-lib/*
+test/reports/
+libpeerconnection.log
+bower_components
